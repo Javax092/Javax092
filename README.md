@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 [RELATÓRIO DE PERFORMANCE DO SISTEMA]
+### 📊 RELATÓRIO DE PERFORMANCE DO SISTEMA
 
 <table border="0" align="center">
   <tr>
