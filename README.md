@@ -13,7 +13,7 @@
 > ### 🖥️ [INFORMAÇÕES_DO_SISTEMA]
 
 ```text
-> FETCHING_BIO: "Olá, me chamo Ryan Lima. Desenvolvedor Full Stack focado no ecossistema moderno."
+> FETCHING_BIO: "Olá, me chamo Ryan. Desenvolvedor Full Stack focado no ecossistema moderno."
 > ACADEMIC_LOG: "Bacharelado em Ciência da Computação @ IFAM-Centro (2º Ano)"
 > MISSION: "Transição de estudante para Engenheiro de Software Profissional"
 > STATUS: "🟢 Aberto a Oportunidades (Junior/Estágio)"
