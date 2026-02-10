@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=USUÁRIO:%20[SEU%20NOME]&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=USUÁRIO:%20[Ryan Lima]&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 🖥️ [STATUS]
+### 🖥️ STATUS
 
 | **Formação** | 2º Ano - Ciência da Computação (IFAM) |
 | **Disponibilidade** | 🟢 Aberto a Oportunidades (Junior/Estágio) |
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ [TECNOLÓGIAS]
+### 🛠️ TECNOLÓGIAS
 
 <table align="center">
   <tr>
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 [ANÁLISE DE PRODUTIVIDADE]
+### 📊 ANÁLISE DE PRODUTIVIDADE
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Javax092]&show_icons=true&theme=neon&border_color=00d4ff&title_color=00d4ff" />
