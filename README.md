@@ -46,15 +46,6 @@
 
 ### 📊 ANÁLISE DE PRODUTIVIDADE
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Javax092]&show_icons=true&theme=neon&border_color=00d4ff&title_color=00d4ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Javax092]&layout=compact&theme=neon&border_color=00d4ff&title_color=00d4ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Javax092]&theme=neon&border=00d4ff" width="100%" />
-</p>
-
 ---
 
 ### 📞 [ESTABELECER CONEXÃO]
