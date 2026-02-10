@@ -9,9 +9,9 @@
 
 ---
 
-### 🖥️ [STATUS DO SISTEMA]
+### 🖥️ [STATUS]
 
-| **Atributo** | **Detalhes** |
+| **Atributo** |
 | :--- | :--- |
 | **Localização** | Manaus - AM |
 | **Formação** | 2º Ano - Ciência da Computação (IFAM) |
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ [STACK TECNOLÓGICA]
+### 🛠️ [TECNOLÓGIAS]
 
 <table align="center">
   <tr>
@@ -68,7 +68,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
