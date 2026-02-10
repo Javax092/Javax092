@@ -20,7 +20,7 @@
 ```
 
 
-🛠️ TECS
+🛠️ TECH'S
 <table align="center">
 <tr>
  <td align="center" width="200">
