@@ -20,7 +20,7 @@
 ```
 
 
-🛠️ STACK
+🛠️ TECS
 <table align="center">
 <tr>
  <td align="center" width="200">
