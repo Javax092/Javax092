@@ -11,9 +11,6 @@
 
 ### 🖥️ [STATUS]
 
-| **Atributo** |
-| :--- | :--- |
-| **Localização** | Manaus - AM |
 | **Formação** | 2º Ano - Ciência da Computação (IFAM) |
 | **Disponibilidade** | 🟢 Aberto a Oportunidades (Junior/Estágio) |
 | **Foco Atual** | Engenharia de Software & APIs Escaláveis |
