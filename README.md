@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=USUÁRIO:%20[Ryan Lima]&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <h1> 🌌 Bem-vindo ao meu Terminal de Desenvolvimento </h1>
+  <p><b>Status:</b> <code>Online e Codificando</code> | <b>Local:</b> <code>IFAM - Campus Manaus Centro</code></p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 </div>
 
 <div align="center">
-  <h3>⚡ Desenvolvedor Full Stack | B. Ciência da Computação @ IFAM-Centro ⚡</h3>
-  <p><i>"Transformando lógica em soluções digitais de alto impacto."</i></p>
+  <h3>Olá, me chamo Ryan!
+  <p><i>⚡ Desenvolvedor Full Stack | B. Ciência da Computação @ IFAM-Centro ⚡</h3>
+  <p>"Transformando lógica em soluções digitais de alto impacto."</i></p>
 </div>
 
 ---
