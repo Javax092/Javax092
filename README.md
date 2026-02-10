@@ -46,18 +46,7 @@
 
 ### 📊 RELATÓRIO DE PERFORMANCE DO SISTEMA
 
-<table border="0" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <b>📂 DIAGNÓSTICO DE ATIVIDADE</b><br />
-      <img src="https://github-readme-stats.vercel.app/api?username=Javax092&show_icons=true&theme=neon&border_color=00d4ff&title_color=00d4ff&locale=pt-br" alt="Estatísticas do GitHub" height="190px" />
-    </td>
-    <td width="50%" align="center">
-      <b>🛠️ TECNOLOGIAS EM USO</b><br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javax092&layout=compact&theme=neon&border_color=00d4ff&title_color=00d4ff&locale=pt-br" alt="Linguagens mais usadas" height="190px" />
-    </td>
-  </tr>
-</table>
+
 
 <br />
 
