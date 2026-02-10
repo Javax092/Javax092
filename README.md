@@ -44,32 +44,32 @@
 
 ---
 
-### 📊 ANÁLISE DE PRODUTIVIDADE
-
-<div align="center">
----
-
 ### 📊 [RELATÓRIO DE PERFORMANCE DO SISTEMA]
 
-<div align="center">
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <b>📂 DIAGNÓSTICO DE ATIVIDADE</b><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=Javax092&show_icons=true&theme=neon&border_color=00d4ff&title_color=00d4ff&locale=pt-br" alt="Estatísticas do GitHub" height="190px" />
+    </td>
+    <td width="50%" align="center">
+      <b>🛠️ TECNOLOGIAS EM USO</b><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javax092&layout=compact&theme=neon&border_color=00d4ff&title_color=00d4ff&locale=pt-br" alt="Linguagens mais usadas" height="190px" />
+    </td>
+  </tr>
+</table>
 
-| 📂 **Diagnóstico de Atividade** | 🛠️ **Tecnologias Mais Utilizadas** |
-| :--- | :--- |
-| <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Javax092&show_icons=true&theme=neon&border_color=00d4ff&title_color=00d4ff&locale=pt-br" /> | <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javax092&layout=compact&theme=neon&border_color=00d4ff&title_color=00d4ff&locale=pt-br" /> |
-
-</div>
+<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javax092&theme=neon&border=00d4ff&currStreakNum=00d4ff&fire=00d4ff" width="100%" alt="Sequência de Contribuições" />
 </div>
 
-<p align="center">
-  <code><b>Analises:</b> Verificando commits...</code> 
+<div align="center">
+  <code><b>LOG_ANALYSIS:</b> Verificando commits...</code> 
   <code><b>STATUS:</b> Alta produtividade detectada</code> 
   <code><b>UPTIME:</b> Constante</code>
-</p>
-
----
+</div>
 ---
 
 ### 📞 [ESTABELECER CONEXÃO]
