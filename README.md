@@ -64,7 +64,7 @@
 </div>
 
 <p align="center">
-  <code><b>LOG_ANALYSIS:</b> Verificando commits...</code> 
+  <code><b>Analises:</b> Verificando commits...</code> 
   <code><b>STATUS:</b> Alta produtividade detectada</code> 
   <code><b>UPTIME:</b> Constante</code>
 </p>
