@@ -20,7 +20,7 @@
 ```
 
 
-🛠️ [STACK_TECNOLOGICA]
+🛠️ STACK
 <table align="center">
 <tr>
  <td align="center" width="200">
