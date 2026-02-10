@@ -1,42 +1,74 @@
-# Olá, eu sou o Ryan! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=USUÁRIO:%20[SEU%20NOME]&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-### 🚀 Desenvolvedor em formação | Ciência da Computação @ IFAM
-
-Sou apaixonado por transformar lógica em soluções reais e estou focado em construir uma base sólida em engenharia de software.
-
----
-
-### 🛠️ Minha Stack Técnica
-
-- **Linguagens:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- **Backend/DB:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <h3>⚡ Desenvolvedor Full Stack | B. Ciência da Computação @ IFAM-Centro ⚡</h3>
+  <p><i>"Transformando lógica em soluções digitais de alto impacto."</i></p>
+</div>
 
 ---
 
-### 📈 O que estou fazendo agora?
+### 🖥️ [STATUS DO SISTEMA]
 
-- 🎓 Cursando o 2º período de Ciência da Computação no **IFAM 
-- 🛠️ Desenvolvendo projetos para consolidar conhecimentos em **Estruturas de Dados** e **APIs REST**.
-- 🔍 Em busca da minha primeira oportunidade como **Dev Junior ou Estagiário**.
+| **Atributo** | **Detalhes** |
+| :--- | :--- |
+| **Localização** | Manaus - AM |
+| **Formação** | 2º Ano - Ciência da Computação (IFAM) |
+| **Disponibilidade** | 🟢 Aberto a Oportunidades (Junior/Estágio) |
+| **Foco Atual** | Engenharia de Software & APIs Escaláveis |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ [STACK TECNOLÓGICA]
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&langs_count=7&theme=tokyonight"/>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <b>Frontend</b><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <b>Backend</b><br />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <b>Infra & DB</b><br />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 [ANÁLISE DE PRODUTIVIDADE]
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Javax092]&show_icons=true&theme=neon&border_color=00d4ff&title_color=00d4ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Javax092]&layout=compact&theme=neon&border_color=00d4ff&title_color=00d4ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Javax092]&theme=neon&border=00d4ff" width="100%" />
 </p>
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📞 [ESTABELECER CONEXÃO]
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592986202729)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanlmxxv@gmail.com)
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-071421?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5592986202729)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-071421?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![Email](https://img.shields.io/badge/-GMAIL-071421?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ryanlmxxv@gmail.com)
+
+</div>
 
 ---
-*"O código é a lei, mas o café é o combustível."* ☕
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
