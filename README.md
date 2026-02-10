@@ -12,7 +12,7 @@
 
 ### 🖥️ [SYSTEM_INFO]
 
-```bash
+bash
 > FETCHING_BIO: "Olá, me chamo Ryan Lima. Desenvolvedor Full Stack focado no ecossistema moderno."
 > ACADEMIC_LOG: "Bacharelado em Ciência da Computação @ IFAM-Centro (2º Ano)"
 > MISSION: "Transição de estudante para Engenheiro de Software Profissional"
